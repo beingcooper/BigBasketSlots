@@ -12,8 +12,8 @@ We will use Twilio for sending whatsapp messages.
 1. Create your free account [here](https://www.twilio.com/try-twilio). Login to your account and note down the auth_token and account_sid.
 3. Activate Twilio-Whatsapp sandbox using the instructions [here](https://www.twilio.com/console/sms/whatsapp/sandbox). Save the bot number in your contacts. You will be receiving alerts from the same.
 
-## Step 2 - Install the required libraries:
-Run the folowing command in command prompt
+## Step 2 - Install the required libraries
+Run the folowing command in command prompt:
 
 > pip install -r requirements.txt
 
@@ -22,10 +22,10 @@ Run the folowing command in command prompt
 
 1. Replace auth_token and account_sid in whatsapp.py from Step 1.
 2. Replace your mobile number in whatsapp.py.
-3. Run the folowing command in command prompt
+3. Run the folowing test command in command prompt to test whatsapp integration:
 > python whatsapp.py
 4. If all goes well, you should receive a "Hello World" message on your whatsapp from the number you saved in Step 1.
-5. Run the folowing command in command prompt
+5. Run the folowing command in command prompt to start the program:
 > python bigBasketSlots.py
 
 ## Flow
