@@ -13,6 +13,7 @@ We will use Twilio for sending whatsapp messages.
 3. Activate Twilio-Whatsapp sandbox using the instructions [here](https://www.twilio.com/console/sms/whatsapp/sandbox). Save the bot number in your contacts. You will be receiving alerts from the same.
 
 ## Step 2 - Install the required libraries:
+Run the folowing command in command prompt
 
 > pip install -r requirements.txt
 
