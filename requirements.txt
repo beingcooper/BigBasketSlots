@@ -1,0 +1,4 @@
+win10toast
+selenium==3.141.0
+webdriver_manager
+twilio
