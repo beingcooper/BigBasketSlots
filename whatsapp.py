@@ -17,6 +17,7 @@ def send_whatsapp(msg):
     print(message.sid)
     
 
-send_whatsapp("Hello World!")
+if __name__ == "__main__":
+    send_whatsapp("Hello World!")
     
     
