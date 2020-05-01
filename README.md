@@ -2,7 +2,7 @@
 Automatic whatsapp alerts for free slots in Big Basket! 
 
 ## Requirements
-* Python (Incase you dont have it, download it from [here](https://www.anaconda.com/products/individual#windows)
+* Python (Incase you dont have it, download it from [here](https://www.anaconda.com/products/individual#windows))
 * Windows Machine (Running on Linux may need some minor tweaks)
 
 ## Step 1 - Setup
