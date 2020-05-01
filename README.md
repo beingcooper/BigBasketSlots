@@ -2,7 +2,7 @@
 Automatic whatsapp alerts for free slots in Big Basket! 
 
 ## Requirements
-* Python
+* Python (Incase you dont have it, download it from [here](https://www.anaconda.com/products/individual#windows)
 * Windows Machine (Running on Linux may need some minor tweaks)
 
 ## Step 1 - Setup
@@ -22,10 +22,10 @@ Run the folowing command in command prompt:
 
 1. Replace auth_token and account_sid in whatsapp.py from Step 1.
 2. Replace your mobile number in whatsapp.py.
-3. Run the folowing test command in command prompt to test whatsapp integration:
+3. Run the folowing test command in windows command prompt to test whatsapp integration:
 > python whatsapp.py
 4. If all goes well, you should receive a "Hello World" message on your whatsapp from the number you saved in Step 1.
-5. Run the folowing command in command prompt to start the program:
+5. Run the folowing command in windows command prompt to start the program:
 > python bigBasketSlots.py
 
 ## Flow
